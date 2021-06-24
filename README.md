@@ -10,8 +10,10 @@ alien alien
 alien alien
  alien moment
 
-maybe not avocado?
-
 fre sha vaca do
 
 avocado
+=======
+peel the avocadooo
+guacamole guac guac amole
+>>>>>>> new_newer
